@@ -5,7 +5,7 @@ id = "restore_automerge_header"
 version = "1.0.0"
 name = "Restore Auto-Merge to Header"
 tagline = "Brings the Auto Merge toggle and threshold back to the 3D header in Edit Mode."
-maintainer = "Illogicoma"
+maintainer = "Illogicoma <https://github.com/Illogicoma>"
 type = "add-on"
 
 # Permissions (this addon doesn't need special access)
@@ -20,4 +20,5 @@ license = [
 ]
 
 # Optional: Tags for the extension manager
+
 tags = ["Interface", "Modeling"]
