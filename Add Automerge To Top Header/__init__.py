@@ -1,5 +1,5 @@
 # ------------------------------------------------------------------------------
-# Restore Auto Merge Button
+# Add Automerge Button To Top Header
 # Licensed under GNU General Public License v3 or later
 # ------------------------------------------------------------------------------
 import bpy
@@ -21,3 +21,4 @@ def register():
 
 def unregister():
     bpy.types.VIEW3D_HT_header.remove(draw_automerge_header)
+
