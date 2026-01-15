@@ -1,6 +1,6 @@
 ## Release v1.0.0
 
-This extension restores the **Auto Merge** button and **Threshold** field directly to the 3D Viewport header in Blender 5.0, removing the need to dig through the "Options" menu.
+This extension just adds the **Auto Merge** button and **Threshold** field directly to the top 3D Viewport header in Blender 5.0, instead of in a second header. It's a tiny QoL change, but serves as practice.
 
 ### ✨ Features
 - **One-Click Access**: Toggles Auto Merge directly from the header.
@@ -16,4 +16,4 @@ This extension restores the **Auto Merge** button and **Threshold** field direct
 ---
 **Tags:** #Blender #Modeling #UX #Blender5 #AutoMerge
 ---
-Written with Gemini 3
+Written with the help of Gemini 3
